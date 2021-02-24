@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Imc-app</string>
+    <string name="titles">YOUR BMI RESULT</string>
+    <string name="calcular">Compute BMI</string>
+    <string name="peso">Weight</string>
+    <string name="altura">1.70 cm</string>
+    <string name="imc">BMI CALCULATOR</string>
+    <string name="height">Height</string>
+    <string name="weight">60 kg</string>
+</resources>

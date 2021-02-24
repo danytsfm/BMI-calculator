@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Title">
+        <item name="android:textColor">@color/dark_blue</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginBottom">30dp</item>
+       <item name="android:layout_marginTop">60dp</item>
+
+    </style>
+
+    <style name="margins">
+        <item name="android:layout_marginBottom">30dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="imgBtn">
+        <item name="android:layout_width">58dp</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="boxCornerRadiusBottomStart">25dp</item>
+        <item name="boxCornerRadiusBottomEnd">25dp</item>
+        <item name="boxCornerRadiusTopStart">25dp</item>
+    </style>
+</resources>
